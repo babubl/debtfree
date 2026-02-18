@@ -1,6 +1,6 @@
 # 💰 DebtFree v2.0 — AI-Powered Debt Stress Analyzer & Payoff Strategist
 
-A comprehensive, interactive tool that helps Indian households analyze their debt burden, compare payoff strategies, and get AI-powered financial insights for a personalized debt-freedom roadmap.
+A comprehensive, interactive tool that helps Indian households analyze their debt burden, compare payoff strategies, and get AI-powered financial insights for a personalized debt-freedom roadmap. 
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)
